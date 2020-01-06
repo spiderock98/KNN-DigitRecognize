@@ -1,0 +1,2 @@
+- dual them upper4digit va lower4digit
+- bo if cv2.contourArea(cnt) > 50:
