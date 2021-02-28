@@ -13,7 +13,7 @@
 
 - Build PyQT5 linux application to configure image parameters
 
-## Galery
+## Gallery
 
 ### Video
 
