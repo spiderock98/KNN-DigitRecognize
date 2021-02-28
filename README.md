@@ -17,7 +17,7 @@
 
 ### Video
 
-[<img title="" src="http://img.youtube.com/vi/vZBaMNVL4jA/0.jpg" alt="demo" data-align="center">](http://www.youtube.com/watch?v=vZBaMNVL4jA "Demo")
+[<img title="" src="http://img.youtube.com/vi/vZBaMNVL4jA/0.jpg" alt="demo" data-align="center">](http://www.youtube.com/watch?v=vZBaMNVL4jA "Demo ")
 
 ### Images
 
