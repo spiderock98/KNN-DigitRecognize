@@ -18,6 +18,7 @@
 ### Video
 
 [<img title="" src="http://img.youtube.com/vi/vZBaMNVL4jA/0.jpg" alt="demo" data-align="center">](http://www.youtube.com/watch?v=vZBaMNVL4jA "Demo ")
+[<img title="" src="http://img.youtube.com/vi/nFlRMOx1pAY/0.jpg" alt="demo" data-align="center">](http://www.youtube.com/watch?v=nFlRMOx1pAY "Demo ")
 
 ### Images
 
@@ -25,6 +26,10 @@
 <img src="resources/img/IMAG0047.jpg" width="45%"></img>
 <img src="resources/img/IMAG0048.jpg" width="45%"></img>
 <img src="resources/img/IMG_20190611_154244.jpg" width="45%"></img>
+<img src="resources/img/IMG_20190603_114217.jpg" width="45%"></img>
+<img src="resources/img/IMG_20190603_114229.jpg" width="45%"></img>
+<img src="resources/img/IMG_20190524_165111.jpg" width="45%"></img>
+<img src="resources/img/IMG_20190524_165357.jpg" width="45%"></img>
 
 ## Contributors
 
