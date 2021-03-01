@@ -21,13 +21,10 @@
 
 ### Images
 
-![](resources/img/IMAG0046.jpg)
-
-![](resources/img/IMAG0047.jpg)
-
-![](resources/img/IMAG0048.jpg)
-
-![](resources/img/IMG_20190611_154244.jpg)
+<img src="resources/img/IMAG0046.jpg" width="45%"></img>
+<img src="resources/img/IMAG0047.jpg" width="45%"></img>
+<img src="resources/img/IMAG0048.jpg" width="45%"></img>
+<img src="resources/img/IMG_20190611_154244.jpg" width="45%"></img>
 
 ## Contributors
 
