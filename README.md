@@ -13,6 +13,13 @@
 
 - Build PyQT5 linux application to configure image parameters
 
+## Algorithm
+- rasp có 4 thread
+- tạo 1 thread để lấy ảnh từ camera source ra sau đó cho đi qua bộ lọc tiền xử lý, thread này tạo trên class `zoo.py` tham khảo `imutils/VideoSstream`
+
+## To-Do
+- [ ] Fix nguồn 😢
+- [ ] màn hình lcd thêm chức năng lựa chọn camera nào đặt trên camera nào đặt dưới
 ## Gallery
 
 ### Video
